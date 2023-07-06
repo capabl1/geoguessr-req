@@ -36,7 +36,7 @@ i will add more feature, but there is only theses right now
 
 
 
-![image](https://github.com/capabl1/Geoguessr-request-hack/assets/137743238/cdf7bf01-53fd-47e2-9967-39cd9b3f7843)
+
 <details>
 
 <summary>Want to implemant more features ? </summary>

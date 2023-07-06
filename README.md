@@ -9,7 +9,7 @@ i made this for myself at first, but now that i am making a new github i'm willi
 ```
 
 
-
+x
 
 | Name     | Character |
 | ---      | ---       |

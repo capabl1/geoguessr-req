@@ -1,7 +1,7 @@
 # Geoguessr-request-hack
 i made this for myself at first, but now that i am making a new github i'm willing to share it
 
-![image](https://github.com/capabl1/Geoguessr-request-hack/assets/137743238/7ce323af-82b8-45bc-baf5-8ed26a368d6f)
+
 - Fetchs all the  2023 country / region, see the req down below to update it
   
 ``` 

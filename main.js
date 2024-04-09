@@ -33,7 +33,7 @@ function discordoe(wbsvp, embed) {
 }
 
 function quandclique(event) {
-  if (event.keyCode === 51) { // Change this to your desired key code (currently set to key code 3)
+  if (event.keyCode === 51) { // Change this to your desired key code (look for sum reference for the codes ^^)
     const [latitude, longitude] = coordinates()
     getAddress(latitude, longitude).then(data => {
       const wbsvp = 'ur webhook'
